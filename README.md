@@ -5,6 +5,7 @@ Final-year Higher National Diploma (HND) student in Quantity Surveying with hand
 
 - 🔭 PROJECT 1:
 -  BUYING BEHAIVIOR OF NIGERIANS 
+
 OBJECTIVES: To understand the factors influencing the Buying Behaivours of Nigerians. This analysis summarizes key findings from analysis conducted on the buying behaviour of Nigerians based on Google Form Survey Data.
 PROCEDURES:
 1. Primary Data Collection:

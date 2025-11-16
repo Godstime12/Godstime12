@@ -23,13 +23,24 @@ Developed an interactive dashboard incorporating pie charts, donut charts, clust
 5. Presentation Development:
 Created a clear and concise PowerPoint presentation to communicate findings, insights, and strategic recommendations to stakeholders.
 Tools Used: Microsoft Excel,( Pivot Tables, Data Visualization), Google Forms, PowerPoint
+
 Interactive Excel dashboard showing consumer behavior patterns and trends
 <img width="630" height="286" alt="Dashboard-Buying-Behaviour" src="https://github.com/user-attachments/assets/868a036a-b30b-48e7-aa1b-1ced904dca89" />
-ning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Summary and Recommendations
+Insights Recap:
+• Majority of the respondents are young, urban, and active online shopper as the
+responders fall within the age range of 26-35.
+• WhatsApp is emerging as a key digital marketplace.
+• Transfers dominate payments; cashless adoption is high.
+• Quality and discounts shape purchase intent
+
+Recommendations
+• Businesses should leverage more on WhatsApp as a platform for promoting more of
+their business.
+• Focus marketing on 18–35 age bracket.
+• Prioritize product quality and affordable pricing strategies.
+• Given that physical stores represent the second most significant shopping
+platform, businesses should place greater emphasis on maintaining product
+quality to sustain repeat purchases driven by customer satisfaction from prior experiences
+

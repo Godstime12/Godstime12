@@ -7,6 +7,7 @@ Final-year Higher National Diploma (HND) student in Quantity Surveying with hand
 -  **BUYING BEHAIVIOR OF NIGERIANS** 
 
 **OBJECTIVES:** To understand the factors influencing the Buying Behaivours of Nigerians. This analysis summarizes key findings from analysis conducted on the buying behaviour of Nigerians based on Google Form Survey Data.
+
 **PROCEDURES:**
 1. Primary Data Collection:
 Designed and distributed a Google Forms survey targeting respondents from diverse age groups, genders, and locations across Nigeria.
@@ -28,6 +29,7 @@ Created a clear and concise PowerPoint presentation to communicate findings, ins
 <img width="630" height="286" alt="Dashboard-Buying-Behaviour" src="https://github.com/user-attachments/assets/868a036a-b30b-48e7-aa1b-1ced904dca89" />
 
 **Summary and Recommendations**
+
 **Insights Recap**:
 • Majority of the respondents are young, urban, and active online shopper as the
 responders fall within the age range of 26-35.
@@ -36,6 +38,7 @@ responders fall within the age range of 26-35.
 • Quality and discounts shape purchase intent
 
 **Recommendations**
+
 • Businesses should leverage more on WhatsApp as a platform for promoting more of
 their business.
 • Focus marketing on 18–35 age bracket.

@@ -1,11 +1,10 @@
 ## Hi there,I'm Godstime 👋
 
 Final-year Higher National Diploma (HND) student in Quantity Surveying with hands-on experience in cost estimation, bill of quantities (BOQ) preparation, and construction measurement. Passionate about leveraging data analytics to optimize project costs and timelines. Advanced Microsoft Excel proficiency (PivotTables, VLOOKUP, Dashboard creation).
-**Godstime12/Godstime12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 PROJECT 1: BUYING BEHAIVIOR OF NIGERIANS 
+- 🔭 PROJECT 1:
+-  BUYING BEHAIVIOR OF NIGERIANS 
 OBJECTIVES: To understand the factors influencing the Buying Behaivours of Nigerians. This analysis summarizes key findings from analysis conducted on the buying behaviour of Nigerians based on Google Form Survey Data.
 PROCEDURES:
 1. Primary Data Collection:
